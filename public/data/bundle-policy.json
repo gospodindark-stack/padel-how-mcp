@@ -1,0 +1,7 @@
+{
+  "admission_sha256": "4d54c1f53c2fec325e937b0773dba911850a9736ea5b98da411aeceeb3b41707",
+  "catalog_source_generated": "2026-08-18",
+  "offer_source_generated": "2026-09-18T13:17:58+00:00",
+  "schema_version": 1,
+  "source_admission_receipt": "admission-receipt.json"
+}

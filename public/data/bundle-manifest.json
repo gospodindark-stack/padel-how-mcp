@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-18T14:54:39.471456+00:00",
+  "artifacts": {
+    "catalog": {
+      "path": "rackets.json",
+      "sha256": "7fb3e4c180e135762063f406b0c246f03066738f716a85f5b56d8849349e68aa"
+    },
+    "offers": {
+      "path": "data/offers.json",
+      "sha256": "f9a6872fce4d5b755a073ee8690d7b22316a25b4cd25c4a35b8588d32a51f392"
+    },
+    "identity": {
+      "path": "data/v2-rackets.json",
+      "sha256": "d5ffe1edf9cde3d1da08b0611a25ee2119bc97f49b7dab7707785b73ea8c99a2"
+    },
+    "policy": {
+      "path": "data/bundle-policy.json",
+      "sha256": "32895d46e4a94dc34be4bc34b34cae1e64cc21ac8c2b6ff1910735dc3553cdbe"
+    }
+  }
+}

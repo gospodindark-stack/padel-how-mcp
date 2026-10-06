@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gospodindark-stack/padel-how",
+  "title": "padel.how Racket Catalogue",
+  "description": "Read-only padel racket search, specs, comparisons, review scores and dated retailer offers.",
+  "version": "1.2.0",
+  "websiteUrl": "https://padel.how/api/",
+  "repository": {
+    "url": "https://github.com/gospodindark-stack/padel-how-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://padel.how/favicon.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://padel.how/mcp"
+    }
+  ]
+}
